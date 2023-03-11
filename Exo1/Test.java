@@ -1,4 +1,4 @@
-package etudiant.Exo1;
+package Exo1;
 public class Test {
 
 
@@ -12,7 +12,7 @@ public class Test {
         long y = x;
         short z = x;
 
-        System.out.println();
+        System.out.println(z);
         
     }
 }

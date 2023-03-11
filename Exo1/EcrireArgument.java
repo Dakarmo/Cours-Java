@@ -1,3 +1,4 @@
+package Exo1;
 public class EcrireArgument {
 
     public static void main(String[] liste){
